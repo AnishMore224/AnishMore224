@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Anish%20More&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Agents%20%26%20Test%20Automation%20%C2%B7%20Cyber%20Security&descSize=17&descAlignY=60&animation=fadeIn" alt="Anish More — Software Engineer" width="100%" />
+# Anish More
+
+### Software Engineer · AI Agents & Test Automation · Cyber Security
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1200&color=2C9CC9&center=true&vCenter=true&width=640&lines=Building+AI+systems+that+generate%2C+run+and+explain+tests;Multi-agent+orchestration+%C2%B7+RAG+%C2%B7+reliable+backends;Security-minded%3A+validate+every+input%2C+verify+every+output" alt="Typing animation" /></a>
 
@@ -205,7 +207,5 @@ I began in test engineering as an SDET intern, finding vulnerabilities in produc
 <br/><br/>
 
 *Open to conversations about AI agents, test automation and security.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%" />
 
 </div>
