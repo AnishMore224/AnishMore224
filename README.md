@@ -1,5 +1,5 @@
 <h1 align="center">Anish More</h1>
-<h3 align="center">Cyber Security Analyst | AI Security Researcher | Full Stack Developer</h3>
+<h3 align="center">Software Developer | AI Tools for QA | Cyber Security | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anishmore224&label=Profile%20views&color=0e75b6&style=flat" />
@@ -9,10 +9,11 @@
 
 ## About Me
 
-Cyber Security Intern focused on vulnerability identification, penetration testing, and security auditing.  
+Software developer building AI tools for QA teams, including test-case generation and test-orchestration agents.  
+Previously an SDET intern, where I focused on finding vulnerabilities in products.  
 Experienced in web application security, network analysis, and AI-driven system development.  
 Full Stack MERN developer with backend architecture and secure system design experience.  
-Career objective: To specialize in Cyber Security and AI Security Engineering.
+Career objective: To specialize in AI Engineering and Cyber Security.
 
 ---
 
@@ -68,6 +69,16 @@ Career objective: To specialize in Cyber Security and AI Security Engineering.
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### AI & QA Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ### Tools & Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,6 +91,8 @@ Career objective: To specialize in Cyber Security and AI Security Engineering.
 
 ## Featured Projects
 
+AI Test-Case Generation – builds a knowledge base from requirement documents and generates traceable test cases  
+AI Test-Orchestration Agents – read a Jira ticket, run the relevant automated tests, diagnose failures and report back  
 AI-Based Interview Monitoring System  
 AI Traffic Management System  
 AI Resume Builder (LaTeX-based)  
